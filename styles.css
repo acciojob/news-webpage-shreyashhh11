@@ -34,6 +34,9 @@ body{
 
 .pictorial-news-section{
 	background-color:white;
+	padding: 16px;
+      width: 220px;
+	text-align:center;
 	box-sizing:border-box;
 	border-radius: 12px;	
 }
